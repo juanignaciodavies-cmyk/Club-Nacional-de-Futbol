@@ -19,8 +19,7 @@ li{
 	display: block;
 	width: 60px;
 }
-li{
-	float: left;
-	display: block;
-	width: 60px;
+
+body{
+	background: #429ef5;
 }

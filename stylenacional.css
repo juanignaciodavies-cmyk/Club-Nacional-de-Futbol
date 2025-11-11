@@ -24,3 +24,11 @@ li, a{
 	color: #e30707;
 	float: left;
 }
+
+h3{
+	font-size: 25pt;
+}
+
+img:hover{
+	opacity: 0.75;
+}

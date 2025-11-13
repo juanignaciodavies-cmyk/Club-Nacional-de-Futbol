@@ -11,6 +11,17 @@ li{
 
 body{
 	background: #429ef5;
+	overflow: hidden;
+}
+
+.container{
+	width: 500px;
+	text-align: center;
+	overflow: hidden;
+}
+
+.slides{
+	
 }
 
 table{
@@ -32,3 +43,4 @@ h3{
 img:hover{
 	opacity: 0.75;
 }
+

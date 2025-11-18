@@ -14,16 +14,6 @@ body{
 	overflow: hidden;
 }
 
-.container{
-	width: 500px;
-	text-align: center;
-	overflow: hidden;
-}
-
-.slides{
-	
-}
-
 table{
 	border-width: 4px;
 	border-color: #0d0b0b;
@@ -42,5 +32,21 @@ h3{
 
 img:hover{
 	opacity: 0.75;
+}
+
+.container{
+  width: 800px;
+  text-align: center;
+  overflow: hidden;
+}
+
+.slides {
+  	display:flex ;
+  	overflow-x:auto ;
+ 	 scroll-behavior:smooth ;
+}
+
+.slides img{
+	width: 400px;
 }
 
